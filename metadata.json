@@ -1,0 +1,6 @@
+{
+  "name": "AI Job Scout & Auto-Match MCP Agent",
+  "description": "Automated job notification & scouting engine with candidate cross-referencing, MCP agent workflows, and real-time portal web search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
